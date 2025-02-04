@@ -64,18 +64,18 @@ The project includes various forms and windows for different functionalities, su
 <div align="center">
 
   <figure>
-    <figcaption>Login Form</figcaption>
     <img src="images/01%20Login.png" alt="Login Form">
+    <figcaption>Login Form</figcaption>
   </figure>
 
   <figure>
-    <figcaption>Admin Dashboard</figcaption>
     <img src="images/03%20Admin%20Dashboard.png" alt="Admin Dashboard">
+    <figcaption>Admin Dashboard</figcaption>
   </figure>
 
   <figure>
-    <figcaption>Customer Order Placement</figcaption>
     <img src="images/10.2 Customer Place Order.png" alt="Customer Order Placement">
+    <figcaption>Customer Order Placement</figcaption>
   </figure>
 
 </div>
